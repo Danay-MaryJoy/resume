@@ -20,9 +20,9 @@ Follow these steps to view or download my resume:
 
 ## 🎓 Education
 
-### [Polytechnic University of the Philippines]
-- Degree: **[Bachelor's Degree / Information Technology]**
-- Graduated: **[2025]**
+### Polytechnic University of the Philippines
+- Degree: **Bachelor's Degree / Information Technology**
+- Graduated: **2025**
 
 ---
 
