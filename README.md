@@ -10,7 +10,7 @@ This repository contains my latest resume and professional background informatio
 Follow these steps to view or download my resume:
 
 1. Open the repository homepage.
-2. Locate the resume file (usually in PDF or DOCX format).
+2. Locate the resume file 'Resume_MaryJoy_Danay_CV.pdf'.
 3. Click the file name to preview it directly on GitHub.
 4. To download:
    - Click the **Download** button, or
