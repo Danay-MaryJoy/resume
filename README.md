@@ -1,7 +1,7 @@
 # Welcome to My Resume Repository
 
 Hi! 👋  
-This repository contains my latest resume and professional background information.
+This repository contains my resume and professional background information.
 
 ---
 
